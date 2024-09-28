@@ -13,3 +13,5 @@ build an Instagram clone using:
    Create a new project
    Initialise a new app
    npx create-expo-app@latest Instagram --tamplate
+
+2. Expo Router Config
