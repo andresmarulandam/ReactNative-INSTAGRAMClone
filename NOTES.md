@@ -25,3 +25,9 @@
    }
 
 6. Second commit: Expo Router Config
+
+# Folders and HomeScreen
+
+1. Create a main folder: /src
+2. Inside /scr create /app / components
+3. Inside /app create index.tsx
