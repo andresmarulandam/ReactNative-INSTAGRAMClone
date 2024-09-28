@@ -15,3 +15,5 @@ build an Instagram clone using:
    npx create-expo-app@latest Instagram --tamplate
 
 2. Expo Router Config
+3. Create the Home page
+4. Setup the Root Layout

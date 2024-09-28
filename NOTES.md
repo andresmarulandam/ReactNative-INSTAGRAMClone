@@ -31,3 +31,19 @@
 1. Create a main folder: /src
 2. Inside /scr create /app / components
 3. Inside /app create index.tsx
+
+# RootLayout
+
+1. En /app crear un archivo llamado /\_layout.tsx
+2. GROUPS: This is useful for adding layouts without adding additional segments to the URL.
+   You can prevent a segment from showing in the URL by using the group syntax ().
+
+app/root/home.tsx matches /root/home
+app/(root)/home.tsx matches /home
+
+- Dentro de /app crear una carpeta (tabs) y dentro crear /\_layout.tsx, index.tsx, profile.tsx, new.tsx
+- En \_layout.tsx irán las opciones de pantallas que queremos, en este caso será index, profile y new
+- Para los iconos de cada opción de navegación usaremos expo vector icons
+- En layout irán las configuraciones para index, profile, new. como el color, el tamaño, los iconos, etc
+
+3. commit: Setup Tabs Navigation Structure
