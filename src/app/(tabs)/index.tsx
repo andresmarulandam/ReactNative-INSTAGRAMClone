@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text } from 'react-native';
 
-export default function Feed() {
-  return <Text>Feed</Text>;
+export default function FeedScreen() {
+  return <Text className="text-3xl">Feed</Text>;
 }
