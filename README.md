@@ -1,6 +1,6 @@
 ## Instagram Clone: React Native, Expo, Supabase, Cloudinary
 
-build an Instagram clone using:
+Build an Instagram clone using:
 
 - React Native
 - Expo
@@ -23,3 +23,7 @@ build an Instagram clone using:
 
 - Son los mismos estilos que tailwind, se pueden revisar en:
   https://tailwindcss.com/
+
+User Interface
+
+- Home screen - Feed

@@ -63,3 +63,10 @@ app/(root)/home.tsx matches /home
 9. Probar que tailwind este bien instalado y funcionando agregando algun estilo de tailwind
 
 10. COMMIT: Add and setup nativewind
+
+# User Interface
+
+1. Para configurar el alias import: Ir a tsconfig.json:
+   y agregar baseUrl y paths
+2. Download dummy data and add it to asset s/data/posts.json
+3. Crear la interface para FeedScreen
